@@ -1,5 +1,3 @@
 Product A: $100
- vip-pricing
-Product B: $180
-master
-Product C: $300
+Product B: $120
+Product C: $250
